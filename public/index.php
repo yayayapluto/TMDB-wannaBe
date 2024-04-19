@@ -1,5 +1,5 @@
 <?php
-require_once ("Movie.php");
+require_once ("../admin/Movie.php");
 $Movie = new MovieList();
 ?>
 
